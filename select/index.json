@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Save Tonight",
+  "base_artist": "Eagle-Eye Cherry",
+  "createdAt": "2026-02-26T16:21:59.407314Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Save Tonight",
+      "artist": "Sam Feldt",
+      "has_synced": true,
+      "path": "select/01_Save_Tonight_Sam_Feldt.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Save Tonight (feat. Solamay)",
+      "artist": "Robin Schulz feat. Moguai & Solamay",
+      "has_synced": true,
+      "path": "select/02_Save_Tonight_(feat._Solamay)_Robin_Schulz_feat._Moguai_&_Solamay.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Save Tonight",
+      "artist": "Eagle Eye Cherry",
+      "has_synced": false,
+      "path": "select/03_Save_Tonight_Eagle_Eye_Cherry.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Save Tonight",
+      "artist": "Eagle-Eye Cherry",
+      "has_synced": true,
+      "path": "select/04_Save_Tonight_Eagle-Eye_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Save Tonight",
+      "artist": "Eagle-Eye Cherry",
+      "has_synced": true,
+      "path": "select/05_Save_Tonight_Eagle-Eye_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Save Tonight",
+      "artist": "Eagle-Eye Cherry",
+      "has_synced": true,
+      "path": "select/06_Save_Tonight_Eagle-Eye_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Save tonight",
+      "artist": "Eagle-Eye Cherry",
+      "has_synced": true,
+      "path": "select/07_Save_tonight_Eagle-Eye_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Save Tonight",
+      "artist": "Eagle-Eye Cherry",
+      "has_synced": true,
+      "path": "select/08_Save_Tonight_Eagle-Eye_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Save Tonight",
+      "artist": "Eagle-Eye Cherry",
+      "has_synced": true,
+      "path": "select/09_Save_Tonight_Eagle-Eye_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Save Tonight",
+      "artist": "Eagle Eye Cherry",
+      "has_synced": true,
+      "path": "select/10_Save_Tonight_Eagle_Eye_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Eagle Eye Cherry / Save Tonight",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/11_Eagle_Eye_Cherry___Save_Tonight_Various.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Save Tonight",
+      "artist": "Eagle-Eye Cherry",
+      "has_synced": true,
+      "path": "select/12_Save_Tonight_Eagle-Eye_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Save Tonight (1998)",
+      "artist": "Eagle Eye Cherry",
+      "has_synced": true,
+      "path": "select/13_Save_Tonight_(1998)_Eagle_Eye_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Save Tonight",
+      "artist": "Eagle-Eye Cherry",
+      "has_synced": true,
+      "path": "select/14_Save_Tonight_Eagle-Eye_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Save Tonight",
+      "artist": "Eagle-Eye-Cherry",
+      "has_synced": true,
+      "path": "select/15_Save_Tonight_Eagle-Eye-Cherry.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Save tonight",
+      "artist": "Eagle Eye Cherry",
+      "has_synced": true,
+      "path": "select/16_Save_tonight_Eagle_Eye_Cherry.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Save Tonight",
+      "artist": "Eagle-Eye Cherry",
+      "has_synced": false,
+      "path": "select/pl_01_Save_Tonight_Eagle-Eye_Cherry.txt"
+    }
+  ]
+}
